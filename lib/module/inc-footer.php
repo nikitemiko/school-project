@@ -117,7 +117,7 @@
 										<span>Репозиторий</span>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="https://github.com/DAGINATSUKO/www-rpcs3" target="_blank">
+										<a href="https://github.com/nikitemiko/nikitemiko.git" target="_blank">
 										<span>фин. сайт</span>
 										</a>
 									</div>
